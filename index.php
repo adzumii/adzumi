@@ -34,7 +34,7 @@
     </label>
     <input type="Password" name="Pass" id="Pass" placeholder="Password">
     <br><br>
-    <input type="button" name="log" id="log" onclick="checkValid()" value="Log In Here">
+    <input type="button" name="log" id="log" onclick="checkValid();" value="Log In Here">
   </form>
 </div>
 </body>
