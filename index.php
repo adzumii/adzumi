@@ -8,8 +8,8 @@
 
 <script>
   function checkValid() {
-    let name = document.getElementById('fname');
-    var password = document.getElementById('password');
+    let name = document.getElementById('Uname');
+    var password = document.getElementById('Pass');
     if(name.value == 'Adina' && password.value == '00000')
     {
       pageRedirect();
