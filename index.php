@@ -18,7 +18,7 @@
     }
   }
   function pageRedirect() {
-    window.location.href = "";
+    window.location.href = "https://adina-abdullaeva.herokuapp.com/";
   }
 </script>
 <h2>Login Page</h2><br>
